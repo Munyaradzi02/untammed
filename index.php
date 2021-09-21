@@ -48,7 +48,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
-      <h1>untammedcreativity</h1>
+      <h4>untammedcreativity</h4>
       <h2>We're working hard to improve our website and we'll ready to launch after</h2>
       <div class="countdown" data-count="2021/11/20" data-template="%w weeks %d days <br> %H:%M:%S"></div>
 
